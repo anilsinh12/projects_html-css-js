@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+  }
+
+  h1 {
+    color: #12130c;
+    text-align: center;
+    font-size: 1rem;
+  }
+
+  .converter {
+    background-color: rgb(69, 154, 190);
+    border:2px solid rgb(217, 149, 149);
+    border-radius: 1rem;
+    width: 400px;
+    height: 200px;
+
+    margin: 0 auto; 
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+  }
+  #miles{
+     padding: 10px;
+     border-radius: 0.5rem;
+  }
+  #result {
+   
+   text-align: center;
+  
+  }
+
+  button{
+    padding: 10px;
+    border-radius: 0.5rem;
+    color: rgb(247, 236, 236);
+    background-color: rgb(119, 175, 62);
+  }
+
+  button:hover{
+    background-color: rgb(102, 153, 51);
+  }
+
+ 
+     
+    
+
+    
